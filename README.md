@@ -1,2 +1,3 @@
 # Gen-AI--Workshop
-Generative 
+Generative AI Workshop held on November at Nirmala College Muvattupuzha
+
